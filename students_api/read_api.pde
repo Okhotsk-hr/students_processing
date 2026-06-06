@@ -1,3 +1,4 @@
+String base_url = "http://localhost/code/students/students.php?";
 String load_school = "s001";
 String load_grade = "1";
 String load_class = "A";
